@@ -24,7 +24,7 @@ npm start
 ```
 Build : 
 ```shell
-npm build
+npm run build
 ```
 
 ## Evolutions
